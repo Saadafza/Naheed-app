@@ -1,10 +1,10 @@
-
-
+import "./Home.css";
 function Home (){
     return(
         <>
-        this is home page 
-        this is my new app home page to see the changes in git hub
+        <h1 className="home-head" >
+              this is home page 
+        </h1>
         </>
 
     )
